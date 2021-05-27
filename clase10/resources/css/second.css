@@ -1,0 +1,26 @@
+#platos{
+    text-align: center;
+}
+
+.platillosT{
+    background-color: aliceblue;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.platillosT img {
+    width: 150px;
+    height: 100px;
+}
+
+#icons{
+    padding: 10px;
+}
+
+.icon{
+    padding: 15px;
+}
